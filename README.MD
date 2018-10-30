@@ -8,3 +8,5 @@ This application needs for root priviliges for access to hosts file.
 ## Running
 
 Go to project folder in terminal and write `./run.sh`
+
+Burak Korman
